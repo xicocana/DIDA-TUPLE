@@ -1,0 +1,5 @@
+add <"1",DADTestB(1,"c",2),"3">
+add <DADTestA("1","c"),"3">
+add <"1",DADTestC(1,"c","2"),"3">
+add <DADTestA("1","c"),DADTestB(1,"c",2),DADTestC(1,"c","2"),"3">
+take <"1",DADTestC(1,"c","2"),"3">

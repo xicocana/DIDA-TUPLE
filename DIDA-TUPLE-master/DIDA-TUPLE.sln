@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server - SMR", "Server\Server - SMR.csproj", "{3D08EBB1-D5EA-4A85-947A-F6B6C3D73D42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTServices", "DIDA-TUPLE-Services\DTServices.csproj", "{0091FC76-65CD-4873-88C3-BB5EDF81FA00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Script-Client", "Script-Client\Script-Client.csproj", "{3B67B698-EAD4-4885-A7E7-DCBE856C8BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppetMaster", "PPM\PuppetMaster.csproj", "{071F713F-4C8F-4B84-9D49-C87E6AFD885F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_XL", "Server_XL\Server_XL.csproj", "{BE578D16-B157-46B8-9203-E582EC457639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIDATupleImlp", "DIDATupleImlp\DIDATupleImlp.csproj", "{E8251B91-0122-4627-A779-7B53F732A460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D08EBB1-D5EA-4A85-947A-F6B6C3D73D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D08EBB1-D5EA-4A85-947A-F6B6C3D73D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D08EBB1-D5EA-4A85-947A-F6B6C3D73D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D08EBB1-D5EA-4A85-947A-F6B6C3D73D42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0091FC76-65CD-4873-88C3-BB5EDF81FA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0091FC76-65CD-4873-88C3-BB5EDF81FA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0091FC76-65CD-4873-88C3-BB5EDF81FA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0091FC76-65CD-4873-88C3-BB5EDF81FA00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B67B698-EAD4-4885-A7E7-DCBE856C8BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B67B698-EAD4-4885-A7E7-DCBE856C8BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B67B698-EAD4-4885-A7E7-DCBE856C8BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B67B698-EAD4-4885-A7E7-DCBE856C8BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071F713F-4C8F-4B84-9D49-C87E6AFD885F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071F713F-4C8F-4B84-9D49-C87E6AFD885F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071F713F-4C8F-4B84-9D49-C87E6AFD885F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071F713F-4C8F-4B84-9D49-C87E6AFD885F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE578D16-B157-46B8-9203-E582EC457639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE578D16-B157-46B8-9203-E582EC457639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE578D16-B157-46B8-9203-E582EC457639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE578D16-B157-46B8-9203-E582EC457639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8251B91-0122-4627-A779-7B53F732A460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8251B91-0122-4627-A779-7B53F732A460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8251B91-0122-4627-A779-7B53F732A460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8251B91-0122-4627-A779-7B53F732A460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB2F6849-A74F-479F-AC9F-5335D0128EF7}
+	EndGlobalSection
+EndGlobal
